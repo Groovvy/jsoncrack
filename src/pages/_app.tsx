@@ -66,7 +66,6 @@ function JsonCrack({ Component, pageProps }: AppProps) {
               },
             }}
           />
-          <SupportButton />
         </ThemeProvider>
       </>
     );

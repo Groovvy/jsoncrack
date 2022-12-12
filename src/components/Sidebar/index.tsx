@@ -3,8 +3,6 @@ import Link from "next/link";
 import toast from "react-hot-toast";
 import {
   AiOutlineDelete,
-  AiFillGithub,
-  AiOutlineTwitter,
   AiOutlineSave,
   AiOutlineFileAdd,
   AiOutlineLink,
@@ -12,7 +10,6 @@ import {
 } from "react-icons/ai";
 import { CgArrowsMergeAltH, CgArrowsShrinkH } from "react-icons/cg";
 import { FiDownload } from "react-icons/fi";
-import { HiHeart } from "react-icons/hi";
 import { MdCenterFocusWeak } from "react-icons/md";
 import { TiFlowMerge } from "react-icons/ti";
 import { VscCollapseAll, VscExpandAll } from "react-icons/vsc";
